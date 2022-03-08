@@ -1,0 +1,33 @@
+_repo: Historia-de-la-Conquista-de-Mexico-Volume-2-of-3-Poblacion-y-Progresos-de-la-America-Septentr__67524
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Josse, Agustin Luis
+    gutenberg_agent_id: '54306'
+    url: http://www.gutenberg.org/2009/agents/54306
+creator:
+  author:
+    agent_name: Solís, Antonio de
+    gutenberg_agent_id: '54305'
+    url: http://www.gutenberg.org/2009/agents/54305
+description: ''
+gutenberg_issued: '2022-02-28'
+identifiers:
+  gutenberg: '67524'
+language: es
+pgterms:marc904: http://books.google.com/books?id=hLEXzdFjm6gC
+pgterms:marc905: 20061214170053sols
+pgterms:marc906: '1809'
+pgterms:marc907: gb
+production_note: Adrian Mastronardi and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This book was produced from scanned images of public domain
+  material from the Google Books project.)
+publication_note: United Kingdom :R. Juigné,1809.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Historia de la Conquista de Mexico, Volume 2 (of 3): Poblacion y Progresos
+  de la America Septentrional, Conocida por el Nombre de Nueva España'
+url: http://www.gutenberg.org/ebooks/67524
