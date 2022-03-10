@@ -5,12 +5,17 @@ contributor:
     agent_name: Josse, Agustin Luis
     gutenberg_agent_id: '54306'
     url: http://www.gutenberg.org/2009/agents/54306
+covers:
+- cover_type: archival
+  image_path: 67524-h/images/cover.jpg
 creator:
   author:
     agent_name: Solís, Antonio de
     gutenberg_agent_id: '54305'
     url: http://www.gutenberg.org/2009/agents/54305
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67524#Historia-de-la-Conquista-de-Mexico-Volume-2-of-3-Poblacion-y-Progresos-de-la-America-Septentr_
 gutenberg_issued: '2022-02-28'
 identifiers:
   gutenberg: '67524'
